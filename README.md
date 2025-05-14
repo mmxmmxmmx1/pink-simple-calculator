@@ -6,7 +6,7 @@
 
 ## 🖼️ 預覽畫面
 
-> 📷 可放上 Calculator GUI 的截圖這裡（若有）
+> ![image](https://github.com/user-attachments/assets/5a542963-1a04-4086-8b2a-c5dcc4cdda05)
 
 ---
 
