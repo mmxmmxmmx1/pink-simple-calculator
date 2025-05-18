@@ -5,7 +5,8 @@
 ---
 ## 🖼️ 預覽畫面
 
-> ![image](https://github.com/user-attachments/assets/5a542963-1a04-4086-8b2a-c5dcc4cdda05)
+> ![image](https://github.com/user-attachments/assets/1661af3f-90b4-4aae-b0c3-fd9f7d9d6389)
+
 ---
 
 ## ✨ 功能特色
@@ -17,7 +18,9 @@
 ---
 ## 📦 下載
 
-請前往 [Releases 頁面] (https://github.com/mmxmmxmmx1/pink-simple-calculator/releases/tag/beta1.0) 下載對應版本：Calculator.exe
+請前往 [Releases 頁面]
+(https://github.com/mmxmmxmmx1/pink-simple-calculator/releases/download/v2.0/pink.calculator.exe) 
+下載對應版本：Calculator.exe
 
 ---
 
